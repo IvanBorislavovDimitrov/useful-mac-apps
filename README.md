@@ -14,4 +14,9 @@
 
 -> Max charge (https://github.com/AppHouseKitchen/AlDente-Charge-Limiter?tab=readme-ov-file)
 
--> Hidden Menus Bar (https://apps.apple.com/us/app/ibar-menubar-icon-control-tool/id6443843900)
+-> ICE hidden menu bar (open source)
+
+-> Fanny (shows information about temperatures and load)
+
+-> Stats (shows information about temperatures and load)
+
