@@ -8,7 +8,7 @@
 
 -> VLC player
 
--> Iterm2 -> Best terminal
+-> Warp -> Best terminal
 
 -> Oh my ZSH -> ZSH terminal (check for fonts) and use agnoster theme
 
