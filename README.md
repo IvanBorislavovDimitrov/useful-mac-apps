@@ -1,22 +1,29 @@
-# useful-mac-apps
+# Useful Mac Apps
 
--> ClipBook -> copy clip
+Here’s a curated list of useful apps for macOS to enhance productivity and system management:
 
--> MOS -> reverse scroll between trackpad and mouse
+### Clipboard Management
+- **[ClipBook](https://clipbook.app/)**: Powerful clipboard manager for copying and managing text snippets.
 
--> Cyberduck -> FTP client (WinSCP alternative)
+### Scrolling Customization
+- **[MOS](https://mos.caldis.me/)**: Reverse scrolling direction between trackpad and mouse.
 
--> VLC player
+### File Transfer
+- **[Cyberduck](https://cyberduck.io/)**: A versatile FTP client, an excellent alternative to WinSCP.
 
--> Warp -> Best terminal
+### Media Player
+- **[VLC Player](https://www.videolan.org/vlc/)**: A robust and widely-used media player supporting a variety of formats.
 
--> Oh my ZSH -> ZSH terminal (check for fonts) and use agnoster theme
+### Terminal and Shell Enhancements
+- **[Warp](https://www.warp.dev/)**: A modern, fast terminal optimized for developers.
+- **[Oh My Zsh](https://ohmyz.sh/)**: Framework for managing your Zsh configuration.
+  - Use the `agnoster` theme for a clean and functional prompt.
+  - Check compatibility and install [Nerd Fonts](https://www.nerdfonts.com/) for the best experience.
 
--> Max charge (https://github.com/AppHouseKitchen/AlDente-Charge-Limiter?tab=readme-ov-file)
+### Battery Management
+- **[AlDente (Max Charge)](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter)**: Open-source tool for limiting your MacBook's battery charge to prolong battery health.
 
--> ICE hidden menu bar (open source)
-
--> Fanny (shows information about temperatures and load)
-
--> Stats (shows information about temperatures and load)
-
+### System Utilities
+- **[Ice](https://github.com/ice-open-source/ICE)**: Open-source menu bar customizer to hide unused menu bar items.
+- **[Fanny](https://fannywidget.com/)**: A lightweight app to monitor system temperatures and load.
+- **[Stats](https://github.com/exelban/stats)**: Detailed system monitoring tool showing temperatures, CPU, memory, and more.
