@@ -31,5 +31,5 @@ Here’s a curated list of useful apps for macOS to enhance productivity and sys
 
 ### Productivity & Cloud Integration
 - **[ChatGPT](https://openai.com/chatgpt)**: AI-powered assistant for answering questions, brainstorming, and automating workflows.
-- **[Cloude](https://cloude.app/)**: A cloud storage management tool to streamline file access across services.
+- **[Cloude](https://claude.ai/)**: A cloud storage management tool to streamline file access across services.
 
