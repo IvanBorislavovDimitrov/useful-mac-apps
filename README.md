@@ -4,6 +4,7 @@ Here’s a curated list of useful apps for macOS to enhance productivity and sys
 
 ### Clipboard Management
 - **[ClipBook](https://clipbook.app/)**: Powerful clipboard manager for copying and managing text snippets.
+- **[Maccy](https://maccy.app/)**: Lightweight clipboard manager with a focus on simplicity and speed.
 
 ### Scrolling Customization
 - **[MOS](https://mos.caldis.me/)**: Reverse scrolling direction between trackpad and mouse.
@@ -27,3 +28,8 @@ Here’s a curated list of useful apps for macOS to enhance productivity and sys
 - **[Ice](https://github.com/ice-open-source/ICE)**: Open-source menu bar customizer to hide unused menu bar items.
 - **[Fanny](https://fannywidget.com/)**: A lightweight app to monitor system temperatures and load.
 - **[Stats](https://github.com/exelban/stats)**: Detailed system monitoring tool showing temperatures, CPU, memory, and more.
+
+### Productivity & Cloud Integration
+- **[ChatGPT](https://openai.com/chatgpt)**: AI-powered assistant for answering questions, brainstorming, and automating workflows.
+- **[Cloude](https://cloude.app/)**: A cloud storage management tool to streamline file access across services.
+
